@@ -8,10 +8,10 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme
     runs-on: ubuntu-latest
     steps:
-      - uses: GsTio86/waka-readme@master
+      - uses: GsTio86/update-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
