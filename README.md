@@ -7,3 +7,9 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GsTio86&langs_count=8&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub">
 </p>
+
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
