@@ -43,7 +43,7 @@
 
 <h2 align="center">⚡ Stats</h2>
 <p align="center">
-	<img src="https://github-readme-stats-gt.vercel.app/api?username=GsTio86&count_private=true&show_icons=true&hide_border=true&line_height=20&theme=radical" alt="GitHub">
-	<img src="https://github-readme-stats-gt.vercel.app/api/top-langs/?username=GsTio86&langs_count=8&count_private=true&show_icons=true&theme=radical" alt="GitHub">
-	<img src="https://github-readme-stats-gt.vercel.app/api/wakatime?username=GsTio86&show_icons=true&langs_count=5&layout=compact&theme=radical" alt="WakeTime">
+	<img src="https://github-readme-stats-pnch3i7fk-gstio86s-projects.vercel.app/api?username=GsTio86&count_private=true&show_icons=true&hide_border=true&line_height=20&theme=radical" alt="GitHub">
+	<img src="https://github-readme-stats-pnch3i7fk-gstio86s-projects.vercel.app/api/top-langs/?username=GsTio86&langs_count=8&count_private=true&show_icons=true&theme=radical" alt="GitHub">
+	<img src="https://github-readme-stats-pnch3i7fk-gstio86s-projects.vercel.app/api/wakatime?username=GsTio86&show_icons=true&langs_count=5&layout=compact&theme=radical" alt="WakeTime">
 </p>
