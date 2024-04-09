@@ -6,6 +6,7 @@
  	<img src="https://badges.pufler.dev/repos/GsTio86"/>
  	<img src="https://badges.pufler.dev/commits/monthly/GsTio86" />
 	<img src="https://wakatime.com/badge/user/d888543d-1ce0-4443-8639-74f9d0f7a579.svg" />	
+	<img src="https://lanyard.cnrad.dev/api/374499402271686657?showDisplayName=true&idleMessage=擅長開發Minecraft模組＆插件和實作一些小東西" href="https://discord.com/users/374499402271686657">
 </p>
 
 <h2 align="center">🚀 Skills</h2>
@@ -44,6 +45,5 @@
 <h2 align="center">⚡ Stats</h2>
 <p align="center">
 	<img src="https://github-readme-stats-gt.vercel.app/api?username=GsTio86&count_private=true&show_icons=true&hide_border=true&line_height=20&theme=radical" alt="GitHub">
-	<img src="https://github-readme-stats-gt.vercel.app/api/top-langs/?username=GsTio86&langs_count=5&count_private=true&show_icons=true&theme=radical" alt="GitHub">
 	<img src="https://github-readme-stats-gt.vercel.app/api/wakatime?username=GsTio86&show_icons=true&langs_count=5&layout=compact&theme=radical%" alt="WakeTime"> 
 </p>
