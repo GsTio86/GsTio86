@@ -1,16 +1,15 @@
 <h1 align="center">👋 大家好！我是 Galen。</h1>
 <h3 align="center">一位來自台灣，喜歡酷咚咚的開發者</h3>
 <p align="center">
-	<img src="https://badges.pufler.dev/visits/ritik307/GsTio86"/> 
- 	<img src="https://badges.pufler.dev/years/GsTio86"/>
- 	<img src="https://badges.pufler.dev/repos/GsTio86"/>
+	<img src="https://komarev.com/ghpvc/?username=GsTio86"/> 
+ 	<img src="https://img.shields.io/github/commit-activity/m/GsTio86/GsTio86"/>
 	<br>
 	<a href="https://discord.com/users/374499402271686657">
 		<img src="https://lanyard.cnrad.dev/api/374499402271686657?showDisplayName=true&idleMessage=擅長開發Minecraft模組＆插件和實作一些小東西">
 	</a>
 	<br>
- 	<img src="https://badges.pufler.dev/commits/monthly/GsTio86" />
-	<img src="https://wakatime.com/badge/user/d888543d-1ce0-4443-8639-74f9d0f7a579.svg" />	
+	<a href="https://wakatime.com/@GsTio86"><img src="https://wakatime.com/badge/user/d888543d-1ce0-4443-8639-74f9d0f7a579.svg" /></a>
+ 	<a href="https://github.com/GsTio86?tab=followers"><img src="https://img.shields.io/github/followers/GsTio86?color=4C1&logo=github" /></a>
 </p>
 
 <h2 align="center">🚀 Skills</h2>
