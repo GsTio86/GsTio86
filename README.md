@@ -5,7 +5,7 @@
  	<img src="https://img.shields.io/github/commit-activity/m/GsTio86/GsTio86"/>
 	<br>
 	<a href="https://discord.com/users/374499402271686657">
-		<img src="https://lanyard.cnrad.dev/api/374499402271686657?showDisplayName=true&idleMessage=擅長開發Minecraft模組＆插件和實作一些小東西">
+		<img src="https://lanyard.cnrad.dev/api/374499402271686657?showDisplayName=true&idleMessage=擅長開發Minecraft模組＆插件，最近在學習網站後端的東西">
 	</a>
 	<br>
 	<a href="https://wakatime.com/@GsTio86"><img src="https://wakatime.com/badge/user/d888543d-1ce0-4443-8639-74f9d0f7a579.svg" /></a>
