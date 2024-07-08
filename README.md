@@ -59,9 +59,8 @@
 </p>
 
 <h2 align="center">⚡ Stats</h2>
-
-![GsTio86's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GsTio86&bg_color=0d1117&color=d83a7c&line=a9fef7&point=ecce44&area=true&hide_border=true)
 <p align="center">
-	<img img width="44%" height="195px" src="https://github-readme-stats-gt.vercel.app/api?username=GsTio86&count_private=true&show_icons=true&hide_border=true&line_height=20&theme=radical" alt="GitHub">
-	<img img width="46%" height="195px" src="https://github-readme-stats-gt.vercel.app/api/wakatime?username=GsTio86&show_icons=true&langs_count=5&layout=compact&theme=radical%" alt="WakeTime"> 
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=GsTio86&bg_color=0d1117&color=d83a7c&line=a9fef7&point=ecce44&area=true&hide_border=true" alt="GsTio86's github activity graph">
+	<img width="44%" height="210px" src="https://github-readme-stats-gt.vercel.app/api?username=GsTio86&count_private=true&show_icons=true&hide_border=true&line_height=20&theme=radical" alt="GitHub">
+	<img width="46%" height="210px" src="https://github-readme-stats-gt.vercel.app/api/wakatime?username=GsTio86&show_icons=true&langs_count=5&layout=compact&theme=radical%" alt="WakeTime"> 
 </p>
