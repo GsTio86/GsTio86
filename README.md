@@ -60,7 +60,7 @@
 
 <h2 align="center">⚡ Stats</h2>
 
-[![GsTio86's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GsTio86&theme=tokyo-night)
+![GsTio86's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GsTio86&theme=tokyo-night)
 
 <p align="center">
 	<img img width="44%" height="195px" src="https://github-readme-stats-gt.vercel.app/api?username=GsTio86&count_private=true&show_icons=true&hide_border=true&line_height=20&theme=radical" alt="GitHub">
