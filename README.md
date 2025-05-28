@@ -4,8 +4,7 @@
 	<img src="https://komarev.com/ghpvc/?username=GsTio86"/> 
  	<img src="https://img.shields.io/github/commit-activity/m/GsTio86/GsTio86"/>
 	<br>
-	<a href="https://discord.com/users/374499402271686657">
-		<img src="https://lanyard.cnrad.dev/api/374499402271686657?showDisplayName=true&idleMessage=%E6%93%85%E9%95%B7%E9%96%8B%E7%99%BCMinecraft%E6%A8%A1%E7%B5%84%EF%BC%86%E6%8F%92%E4%BB%B6%EF%BC%8CDiscord%E6%A9%9F%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%92%8C%E5%BE%8C%E7%AB%AF%E7%9B%B8%E9%97%9C%E7%9A%84%E6%9D%B1%E8%A5%BF">		
+	<a href="https://discord.com/users/374499402271686657"><img src="https://lanyard.cnrad.dev/api/374499402271686657?idleMessage=%E6%93%85%E9%95%B7%E9%96%8B%E7%99%BCMinecraft%E6%A8%A1%E7%B5%84%EF%BC%86%E6%8F%92%E4%BB%B6%E3%80%81Discord%E6%A9%9F%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%92%8C%E5%BE%8C%E7%AB%AF%E7%9B%B8%E9%97%9C%E7%9A%84%E6%9D%B1%E8%A5%BF&theme=dark&borderRadius=30px&showDisplayName=true&animatedDecoration=true" />
 	</a>
 	<br>
 	<a href="https://wakatime.com/@GsTio86"><img src="https://wakatime.com/badge/user/d888543d-1ce0-4443-8639-74f9d0f7a579.svg" /></a>
